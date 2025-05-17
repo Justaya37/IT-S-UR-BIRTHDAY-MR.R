@@ -1,0 +1,21 @@
+body{
+    font-family:'Palatino Linotype';
+    color: wheat;
+    background-color: navy;
+}
+
+.my-button{
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: lightblue;
+    color: navy;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.my-button:hover{
+    background-color: darkblue;
+    color: lightblue;
+}
